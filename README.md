@@ -32,7 +32,7 @@ Developed this custom WordPress theme, based on designer’s layouts, supporting
 
 Developed this mobile-first custom WordPress theme, based on designer’s layouts.
 
-- [ABBA Motors - website]: Offline
+- ABBA Motors - website: Offline
 - [ABBA Motors - codebase](https://bitbucket.org/marksalvatore/abbamotors/src/8dc6ab075e76fec79749ab06d3d271e1f1a6cf67?at=master)
 
 ---
