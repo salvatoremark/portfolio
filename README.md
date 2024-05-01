@@ -13,9 +13,19 @@ Billiard Drills is a web app for mobile, built in React and using LocalStorage t
 
 ---
 
+### Block Starter (WP Blocks - 2024)
+
+Set of starter files originally scaffolded by create-block, then customized to personal preferences for building WordPress blocks.
+
+[Block Starter - codebase](https://github.com/marksalvatore/block-starter)
+
+---
+
 ### Smark Blocks (WP Blocks - 2024)
 
 A collection of WordPress Gutenberg blocks to showcase what I've been working on.
+
+[Smark Blocks - codebase](https://github.com/marksalvatore/smark-blocks)
 
 ---
 
