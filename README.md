@@ -4,7 +4,7 @@
 
 ---
 
-#### Billiard Drills (React web app - 2024)
+#### Billiard Drills (React 2024)
 
 Billiard Drills is a web app for mobile, built in React and using LocalStorage to track and monitor the progress of a pool player's performance of their selected practice drills.
 
@@ -13,7 +13,7 @@ Billiard Drills is a web app for mobile, built in React and using LocalStorage t
 
 ---
 
-### Block Starter (WP Blocks - 2024)
+### Block Starter
 
 Set of starter files originally scaffolded by create-block, then customized to personal preferences for building WordPress blocks.
 
@@ -21,10 +21,26 @@ Set of starter files originally scaffolded by create-block, then customized to p
 
 ---
 
-### Smark Blocks (WP Blocks - 2024)
+### Gold Text
 
-A collection of WordPress Gutenberg blocks built while learning block development.
+WordPress block that applies a 3D gold leaf effect to the edges of text.
 
-[Smark Blocks - codebase](https://github.com/salvatoremark/smark-blocks)
+[Gold Text - codebase](https://github.com/salvatoremark/golden-text)
+
+---
+
+### Text Shadower
+
+WordPress block that applies shadow to text.
+
+[Text Shadower - codebase](https://github.com/salvatoremark/text-shadower)
+
+---
+
+### Text Slicer
+
+WordPress block that applies a sliced effect to text.
+
+[Gold Text - codebase](https://github.com/salvatoremark/text-slicer)
 
 ---
