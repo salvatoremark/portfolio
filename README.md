@@ -28,21 +28,3 @@ A collection of WordPress Gutenberg blocks built while learning block developmen
 [Smark Blocks - codebase](https://github.com/salvatoremark/smark-blocks)
 
 ---
-
-### NERRA - National Estuarine Research Reserves Association (WP Theme - 2017)
-
-Developed this custom WordPress theme, based on designer’s layouts, supporting the extensive content and publishing requirements of the US coastal reserve system.
-
-- [NERRA - website](http://www.nerra.org)
-- [NERRA - codebase](https://bitbucket.org/salvatoremark/nerralite/src)
-
----
-
-### ABBA MOTORS (WP Theme - 2017)
-
-Developed this mobile-first custom WordPress theme, based on designer’s layouts.
-
-- ABBA Motors - website: Offline
-- [ABBA Motors - codebase](https://bitbucket.org/salvatoremark/abbamotors/src/8dc6ab075e76fec79749ab06d3d271e1f1a6cf67?at=master)
-
----
