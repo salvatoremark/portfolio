@@ -4,7 +4,7 @@
 
 ---
 
-#### Billiard Drills (React 2024)
+### Billiard Drills (React 2024)
 
 *Billiard Drills* is a web app for mobile. It's built in React and uses LocalStorage to track and monitor the progress of a pool player's performance of selected practice drills.
 
@@ -14,7 +14,7 @@
 ---
 
 
-#### External Project Template for create-block (WP Block 2024)
+### External Project Template for create-block (WP Block 2024)
 
 The *create-block* package is a time-saving tool that enables the creation of custom blocks with a single command. This powerful tool can be feed template files to customize the output in ways that support the kinds of projects you build.  
 
