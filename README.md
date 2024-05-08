@@ -4,7 +4,7 @@
 
 ---
 
-### Billiard Drills (React 2024)
+### Billiard Drills (ReactJS 2024)
 
 *Billiard Drills* is a web app for mobile. It's built in React and uses LocalStorage to track and monitor the progress of a pool player's performance of selected practice drills.
 
@@ -22,7 +22,7 @@ The *create-block* package is a time-saving tool that enables the creation of cu
 
 ---
 
-### Latest Recent Posts
+### Latest Recent Posts (WP Block 2024)
 
 A WordPress block scaffolded by my external project template [msalv-create-block-template](https://github.com/salvatoremark/msalv-create-block-template), powered by *create-block*. No, the world doesn't need yet another recent posts block, but this block provided good practice implementing many features a user might want to control the display of recent posts.
 
@@ -30,7 +30,7 @@ A WordPress block scaffolded by my external project template [msalv-create-block
 
 ---
 
-### Block Starter
+### Block Starter (WP Block 2024)
 
 Set of starter files originally scaffolded by *create-block*, then customized to personal preferences for building WordPress blocks.
 
@@ -38,7 +38,7 @@ Set of starter files originally scaffolded by *create-block*, then customized to
 
 ---
 
-### Gold Text
+### Gold Text (WP Block 2024)
 
 WordPress block that applies a 3D gold leaf effect to the edges of text.
 
@@ -46,7 +46,7 @@ WordPress block that applies a 3D gold leaf effect to the edges of text.
 
 ---
 
-### Text Shadower
+### Text Shadower (WP Block 2024)
 
 WordPress block that applies shadow to text.
 
@@ -54,7 +54,7 @@ WordPress block that applies shadow to text.
 
 ---
 
-### Text Slicer
+### Text Slicer (WP Block 2024)
 
 WordPress block that applies a sliced effect to text.
 
