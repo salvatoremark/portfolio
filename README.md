@@ -6,7 +6,7 @@
 
 #### Billiard Drills (React 2024)
 
-Billiard Drills is a web app for mobile, built in React and using LocalStorage to track and monitor the progress of a pool player's performance of their selected practice drills.
+*Billiard Drills* is a web app for mobile, built in React and using LocalStorage to track and monitor the progress of a pool player's performance of selected practice drills.
 
 [Billiard Drills - website](http://billiard-drills.web.app)  
 [Billiard Drills - codebase](https://github.com/salvatoremark/billiard-drills)
