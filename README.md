@@ -13,6 +13,23 @@ Billiard Drills is a web app for mobile, built in React and using LocalStorage t
 
 ---
 
+
+#### External Project Template for create-block (WP Block 2024)
+
+The create-block package is a time-saving tool that enables the creation of custom blocks with a single command.
+
+[msalv-external-custom-template - codebase](https://github.com/salvatoremark/msalv-create-block-template)
+
+---
+
+### Latest Recent Posts
+
+A WordPress block scaffolded by my external project template [msalv-create-block-template](https://github.com/salvatoremark/msalv-create-block-template), powered by create-block. No, the world doesn't need yet another recent posts block, but this block provided good practice implementing many features a user might want to control the display of recent posts.
+
+[Latest Recent Posts - codebase](https://github.com/salvatoremark/latest-recent-posts)
+
+---
+
 ### Block Starter
 
 Set of starter files originally scaffolded by create-block, then customized to personal preferences for building WordPress blocks.
