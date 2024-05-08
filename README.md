@@ -16,7 +16,7 @@
 
 #### External Project Template for create-block (WP Block 2024)
 
-The create-block package is a time-saving tool that enables the creation of custom blocks with a single command. This powerful tool can be feed template files to customize the output in ways that support the kind of projects you build.  
+The *create-block* package is a time-saving tool that enables the creation of custom blocks with a single command. This powerful tool can be feed template files to customize the output in ways that support the kind of projects you build.  
 
 [msalv-external-custom-template - codebase](https://github.com/salvatoremark/msalv-create-block-template)
 
@@ -24,7 +24,7 @@ The create-block package is a time-saving tool that enables the creation of cust
 
 ### Latest Recent Posts
 
-A WordPress block scaffolded by my external project template [msalv-create-block-template](https://github.com/salvatoremark/msalv-create-block-template), powered by create-block. No, the world doesn't need yet another recent posts block, but this block provided good practice implementing many features a user might want to control the display of recent posts.
+A WordPress block scaffolded by my external project template [msalv-create-block-template](https://github.com/salvatoremark/msalv-create-block-template), powered by *create-block*. No, the world doesn't need yet another recent posts block, but this block provided good practice implementing many features a user might want to control the display of recent posts.
 
 [Latest Recent Posts - codebase](https://github.com/salvatoremark/latest-recent-posts)
 
@@ -32,7 +32,7 @@ A WordPress block scaffolded by my external project template [msalv-create-block
 
 ### Block Starter
 
-Set of starter files originally scaffolded by create-block, then customized to personal preferences for building WordPress blocks.
+Set of starter files originally scaffolded by *create-block*, then customized to personal preferences for building WordPress blocks.
 
 [Block Starter - codebase](https://github.com/salvatoremark/block-starter)
 
