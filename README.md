@@ -16,7 +16,7 @@
 
 #### External Project Template for create-block (WP Block 2024)
 
-The *create-block* package is a time-saving tool that enables the creation of custom blocks with a single command. This powerful tool can be feed template files to customize the output in ways that support the kind of projects you build.  
+The *create-block* package is a time-saving tool that enables the creation of custom blocks with a single command. This powerful tool can be feed template files to customize the output in ways that support the kinds of projects you build.  
 
 [msalv-external-custom-template - codebase](https://github.com/salvatoremark/msalv-create-block-template)
 
