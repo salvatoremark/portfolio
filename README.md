@@ -17,7 +17,7 @@
 
 ### MSALV Create Block Template (WP Blocks 2024)
 
-This plugin template has been crafted using the create-block tool, leveraging Ryan Welcher's [External Project Template](https://developer.wordpress.org/news/2024/04/16/creating-an-external-project-template-for-create-block/) as a foundation, detailed on the WordPress Developer Blog. This template mirrors the file structure of the create-block tool while incorporating personalized enhancements such as using a PHP class to encapsulate the plugin, providing easier-to-read function names, and streamlined organization.
+This plugin template was crafted using the create-block tool, leveraging Ryan Welcher's [External Project Template](https://developer.wordpress.org/news/2024/04/16/creating-an-external-project-template-for-create-block/) as a foundation. Ryan details how to do this on the [WordPress Developer Blog](https://developer.wordpress.org/news/2024/04/16/creating-an-external-project-template-for-create-block/). This template mirrors the file structure of the create-block tool while incorporating personalized enhancements such as using a PHP class to encapsulate the plugin which provides easier-to-read function names and streamlined organization.
  
 [MSALV Create Block Template - codebase](https://github.com/salvatoremark/msalv-create-block-template)
 
@@ -33,7 +33,7 @@ A WordPress block designed to integrate a customizable countdown clock, displayi
 
 ### Latest Recent Posts (WP Block 2024)
 
-A WordPress block originally generated through my external project template, [msalv-create-block-template](https://github.com/salvatoremark/msalv-create-block-template). While the WordPress plugin world hardly needs another "recent posts" feature, this block served as a learning opportunity for me, now highlighting my implementation of various features allowing users precise control over recent post displays.
+A WordPress block generated via my external project template, [msalv-create-block-template](https://github.com/salvatoremark/msalv-create-block-template). No, the WordPress world hardly needs another "recent posts" plugin, but this block served as a learning opportunity for me, now highlighting my implementation of those various features.
 
 ---
 
