@@ -4,6 +4,7 @@
 
 ---
 Below is a compilation of projects I've developed as part of my ongoing endeavor to master WordPress and React:
+
 ---
 
 ### Billiard Drills (ReactJS 2024)
