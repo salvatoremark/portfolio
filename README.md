@@ -12,20 +12,18 @@
 [Billiard Drills - codebase](https://github.com/salvatoremark/billiard-drills)
 
 ---
+
 ### MSALV Create Block Template (WP Blocks 2024)
 
-This plugin is a template, created by the create-block tool using Ryan Welcher's [External Project Template](https://developer.wordpress.org/news/2024/04/16/creating-an-external-project-template-for-create-block/) for create-block. 
-
-This template scaffolds the same set of files as the create-block tool, but with some personal modifications for example, I use a PHP class to wrap the plugin.
+This plugin template has been crafted using the create-block tool, leveraging Ryan Welcher's [External Project Template](https://developer.wordpress.org/news/2024/04/16/creating-an-external-project-template-for-create-block/) as a foundation. Detailed on the WordPress Developer Blog, this template mirrors the file structure of the create-block tool while incorporating personalized enhancements such as, a PHP class encapsulates the plugin, ensuring streamlined functionality and organization.
  
 [MSALV Create Block Template - codebase](https://github.com/salvatoremark/msalv-create-block-template)
 
 ---
 
-
 ### Countdown (WP Block 2024)
 
-A WordPress block to add a customizable countdown clock (days, hours, minutes, seconds) from any provided date. The user can select a target date, as well as enter text for messaging and adjust styles via the Inspector Controls. 
+A WordPress block designed to integrate a customizable countdown clock, displaying days, hours, minutes, and seconds, dynamically computed from a user-provided date. Users designate a desired target date, craft personalized messaging, and fine-tune stylistic elements through the Inspector Controls interface.
 
 [msalv-external-custom-template - codebase](https://github.com/salvatoremark/msalv-create-block-template)
 
@@ -33,12 +31,9 @@ A WordPress block to add a customizable countdown clock (days, hours, minutes, s
 
 ### Latest Recent Posts (WP Block 2024)
 
-A WordPress block scaffolded by my external project template [msalv-create-block-template](https://github.com/salvatoremark/msalv-create-block-template), powered by *create-block*. No, the world doesn't need yet another recent posts block, but this block provided good practice implementing many features a user might want to control the display of recent posts.
-
-[Latest Recent Posts - codebase](https://github.com/salvatoremark/latest-recent-posts)
+A WordPress block originally generated through my external project template, [msalv-create-block-template](https://github.com/salvatoremark/msalv-create-block-template). While the WordPress plugin world hardly needs another "recent posts" feature, this block served as a learning opportunity for me, now highlighting my implementation of various features allowing users precise control over recent post displays.
 
 ---
-
 
 ### Gold Text (WP Block 2024)
 
@@ -66,7 +61,7 @@ WordPress block that applies a sliced effect to text.
 
 ### Block Starter (WP Block 2024)
 
-Set of starter files originally scaffolded by *create-block*, then customized to personal preferences for building WordPress blocks. I now generate starter files with my custom template, [msalv-create-block-template](https://github.com/salvatoremark/msalv-create-block-template)
+Set of starter files originally scaffolded by *create-block*, then customized to personal preferences for building WordPress blocks. I now generate starter files using my custom template, for create-block, [msalv-create-block-template](https://github.com/salvatoremark/msalv-create-block-template).
 
 [Block Starter - codebase](https://github.com/salvatoremark/block-starter)
 
