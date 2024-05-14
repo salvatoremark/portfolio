@@ -12,11 +12,20 @@
 [Billiard Drills - codebase](https://github.com/salvatoremark/billiard-drills)
 
 ---
+### MSALV Create Block Template (WP Blocks 2024)
+
+This plugin is a template, created by the create-block tool using Ryan Welcher's [External Project Template](https://developer.wordpress.org/news/2024/04/16/creating-an-external-project-template-for-create-block/) for create-block. 
+
+This template scaffolds the same set of files as the create-block tool, but with some personal modifications for example, I use a PHP class to wrap the plugin.
+ 
+[MSALV Create Block Template - codebase](https://github.com/salvatoremark/msalv-create-block-template)
+
+---
 
 
-### External Project Template for create-block (WP Block 2024)
+### Countdown (WP Block 2024)
 
-The *create-block* package is a time-saving tool that enables the creation of custom blocks with a single command. This powerful tool can be feed template files to customize the output in ways that support the kinds of projects you build.  
+A WordPress block to add a customizable countdown clock (days, hours, minutes, seconds) from any provided date. The user can select a target date, as well as enter text for messaging and adjust styles via the Inspector Controls. 
 
 [msalv-external-custom-template - codebase](https://github.com/salvatoremark/msalv-create-block-template)
 
@@ -30,13 +39,6 @@ A WordPress block scaffolded by my external project template [msalv-create-block
 
 ---
 
-### Block Starter (WP Block 2024)
-
-Set of starter files originally scaffolded by *create-block*, then customized to personal preferences for building WordPress blocks.
-
-[Block Starter - codebase](https://github.com/salvatoremark/block-starter)
-
----
 
 ### Gold Text (WP Block 2024)
 
@@ -59,5 +61,13 @@ WordPress block that applies shadow to text.
 WordPress block that applies a sliced effect to text.
 
 [Gold Text - codebase](https://github.com/salvatoremark/text-slicer)
+
+---
+
+### Block Starter (WP Block 2024)
+
+Set of starter files originally scaffolded by *create-block*, then customized to personal preferences for building WordPress blocks. I now generate starter files with my custom template, [msalv-create-block-template](https://github.com/salvatoremark/msalv-create-block-template)
+
+[Block Starter - codebase](https://github.com/salvatoremark/block-starter)
 
 ---
