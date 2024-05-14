@@ -3,7 +3,7 @@
 [Download Resume (pdf)](Mark_Salvatore_WordPress.pdf)
 
 ---
-Below is a compilation of projects I've developed as part of my ongoing endeavor to master WordPress and React:
+##Below is a compilation of projects I've developed as part of my ongoing endeavor to master WordPress and React:##
 
 ---
 
