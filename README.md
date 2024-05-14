@@ -17,7 +17,7 @@
 
 ### MSALV Create Block Template (WP Blocks 2024)
 
-This plugin template has been crafted using the create-block tool, leveraging Ryan Welcher's [External Project Template](https://developer.wordpress.org/news/2024/04/16/creating-an-external-project-template-for-create-block/) as a foundation. Detailed on the WordPress Developer Blog, this template mirrors the file structure of the create-block tool while incorporating personalized enhancements such as, a PHP class encapsulates the plugin, ensuring streamlined functionality and organization.
+This plugin template has been crafted using the create-block tool, leveraging Ryan Welcher's [External Project Template](https://developer.wordpress.org/news/2024/04/16/creating-an-external-project-template-for-create-block/) as a foundation, detailed on the WordPress Developer Blog. This template mirrors the file structure of the create-block tool while incorporating personalized enhancements such as using a PHP class to encapsulate the plugin, providing easier-to-read function names, and streamlined organization.
  
 [MSALV Create Block Template - codebase](https://github.com/salvatoremark/msalv-create-block-template)
 
@@ -25,7 +25,7 @@ This plugin template has been crafted using the create-block tool, leveraging Ry
 
 ### Countdown (WP Block 2024)
 
-A WordPress block designed to integrate a customizable countdown clock, displaying days, hours, minutes, and seconds, dynamically computed from a user-provided date. Users designate a desired target date, craft personalized messaging, and fine-tune stylistic elements through the Inspector Controls interface.
+A WordPress block designed to integrate a customizable countdown clock, displaying days, hours, minutes, and seconds dynamically computed from a user-provided date. Users designate a desired target date, craft personalized messaging, and fine-tune stylistic elements through the Inspector Controls interface.
 
 [msalv-external-custom-template - codebase](https://github.com/salvatoremark/msalv-create-block-template)
 
@@ -63,7 +63,7 @@ WordPress block that applies a sliced effect to text.
 
 ### Block Starter (WP Block 2024)
 
-Set of starter files originally scaffolded by *create-block*, then customized to personal preferences for building WordPress blocks. I now generate starter files using my custom template, for create-block, [msalv-create-block-template](https://github.com/salvatoremark/msalv-create-block-template).
+Set of starter files originally scaffolded by *create-block*, then customized to personal preferences for building WordPress blocks. I now generate starter files using my custom template [msalv-create-block-template](https://github.com/salvatoremark/msalv-create-block-template).
 
 [Block Starter - codebase](https://github.com/salvatoremark/block-starter)
 
